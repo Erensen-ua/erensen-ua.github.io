@@ -15,7 +15,7 @@
 @font-face {
     font-family: 'GandhiSans';
     src: local('GandhiSans-Regular'),
-         url('../fonts/GandhiSans-Regular.otf') format('opentype');
+         url('/fonts/GandhiSans-Regular.otf') format('opentype');
     font-weight: 400;
     font-style: normal;
     font-display: block;
@@ -24,7 +24,7 @@
 @font-face {
     font-family: 'GandhiSans';
     src: local('GandhiSans-Italic'),
-         url('../fonts/GandhiSans-Italic.otf') format('opentype');
+         url('/fonts/GandhiSans-Italic.otf') format('opentype');
     font-weight: 400;
     font-style: italic;
     font-display: block;
@@ -33,7 +33,7 @@
 @font-face {
     font-family: 'GandhiSans';
     src: local('GandhiSans-Bold'),
-         url('../fonts/GandhiSans-Bold.otf') format('opentype');
+         url('/fonts/GandhiSans-Bold.otf') format('opentype');
     font-weight: 700;
     font-style: normal;
     font-display: block;
@@ -42,7 +42,7 @@
 @font-face {
     font-family: 'GandhiSans';
     src: local('GandhiSans-BoldItalic'),
-         url('../fonts/GandhiSans-BoldItalic.otf') format('opentype');
+         url('/fonts/GandhiSans-BoldItalic.otf') format('opentype');
     font-weight: 700;
     font-style: italic;
     font-display: block;
