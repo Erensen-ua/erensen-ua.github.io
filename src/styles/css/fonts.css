@@ -2,7 +2,7 @@
 @font-face {
   font-family: 'Nephilm';
   src: local('Nephilm'),
-       url('../fonts/Nephilm.otf') format('opentype');
+       url('/fonts/Nephilm.otf') format('opentype');
   font-weight: normal;
   font-style: normal;
   font-display: block;
@@ -11,7 +11,7 @@
 @font-face {
   font-family: 'Nephilm';
   src: local('Nephilm Italic'),
-       url('../fonts/Nephilm Italic.otf') format('opentype');
+       url('/fonts/Nephilm Italic.otf') format('opentype');
   font-weight: normal;
   font-style: italic;
   font-display: block;
@@ -20,7 +20,7 @@
 @font-face {
     font-family: 'Insigne';
     src: local('Insigne'),
-         url('../fonts/insigne - Belda Norm Regular.otf') format('opentype');
+         url('/fonts/insigne - Belda Norm Regular.otf') format('opentype');
     font-weight: normal;
     font-style: normal;
     font-display: block;
@@ -29,8 +29,8 @@
 @font-face {
      font-family: 'Coccina';
      src: local('Coccina'),
-          url('../fonts/Coccina.otf') format('opentype'),
-          url('../fonts/Coccina.ttf') format('truetype');
+          url('/fonts/Coccina.otf') format('opentype'),
+          url('/fonts/Coccina.ttf') format('truetype');
      font-weight: normal;
      font-style: normal;
      font-display: block;
@@ -39,8 +39,8 @@
 @font-face {
      font-family: 'Vista Delmora';
      src: local('Vista Delmora'),
-          url('../fonts/VistaDelmora.otf') format('opentype'),
-          url('../fonts/VistaDelmora.ttf') format('truetype');
+          url('/fonts/VistaDelmora.otf') format('opentype'),
+          url('/fonts/VistaDelmora.ttf') format('truetype');
      font-weight: normal;
      font-style: normal;
      font-display: block;
